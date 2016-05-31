@@ -1,1 +1,1 @@
-My .zshrc, .vimrc and .tmux.conf files
+My .zshrc, .vimrc and .tmux.conf file configurations
