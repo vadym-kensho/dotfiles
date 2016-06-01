@@ -52,6 +52,7 @@ nnoremap <space> za
 
 "set the themes
 let g:solarized_termcolors = 256
+set background=dark
 colorscheme solarized
 
 map <C-n> :NERDTreeToggle<CR>
