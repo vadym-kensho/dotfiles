@@ -58,3 +58,4 @@ colorscheme solarized
 map <C-n> :NERDTreeToggle<CR>
 
 set colorcolumn=100
+set noswapfile
